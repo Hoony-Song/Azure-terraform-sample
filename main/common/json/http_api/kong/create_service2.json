@@ -1,0 +1,13 @@
+{
+    "name": "test-svc",
+    "protocol": "http",
+    "connect_timeout": 6000,
+    "path": "/",
+    "write_timeout": 6000,
+    "host": "nginx.svc.test.locals",
+    "read_timeout": 6000,
+    "port": 80,
+    "retries": 5
+  }
+
+  
